@@ -4,3 +4,10 @@ div{
     margin: 10px;
     
 }
+img{
+    width: 600px;
+    height: 750px;
+   display: block;
+   margin: auto;
+
+}
